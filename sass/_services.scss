@@ -1,0 +1,32 @@
+.services {background-color: #eeeeee;
+    padding-bottom: 80px;
+    @media(max-width:992px){
+        padding-bottom: 40px;
+    }
+    
+    .container {
+        .box {
+            margin-top: 100px;
+            @media(max-width:992px){
+                margin-top: 50px;
+            }
+            @media(max-width:786px){
+                margin-top: 30px;
+            }
+        }
+
+        .box h4 {
+            color: #3498db;
+            font-size: 21px;
+            font-family: 'Lato', sans-serif;
+            font-weight:bold;
+        }
+
+        .box p {
+            color: #313131;
+            font-size:14px;
+            font-family: 'Lato', sans-serif;
+            
+        }
+    }
+}

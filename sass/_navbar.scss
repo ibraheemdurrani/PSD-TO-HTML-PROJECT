@@ -1,0 +1,32 @@
+nav {
+    .container {
+      .navbar-brand {
+          color:#313131;
+          font-size: 26px;
+          font-family: 'Lato', sans-serif;
+          font-weight: bold;
+          letter-spacing: 2px;
+      }
+
+      ul {
+          li {
+            
+              a {
+                color:#474747;
+                font-size: 14px;
+                font-family: 'Lato', sans-serif;
+                letter-spacing: 2px;
+              }
+
+             
+          }
+      }
+      .number {
+        color:#474747;
+        font-size: 16px;
+        font-family: 'Lato', sans-serif;
+        letter-spacing: 1px;
+        font-weight: bold;
+      }
+    }
+}

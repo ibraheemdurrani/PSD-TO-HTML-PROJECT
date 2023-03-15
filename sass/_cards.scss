@@ -1,0 +1,35 @@
+.cards {background-color: #eeeeee;
+    padding-bottom: 80px;
+    .container {
+      span {
+          margin-right: 10px;
+          font-size:18px;
+          font-family: 'Lato', sans-serif;
+          font-weight: bold;
+      }
+       .lines {
+           height:12px;
+           width: 2px;
+           margin-right: 10px;
+           color: #fefefe;
+       }
+
+       .second2 {
+           font-size:12px;
+           font-weight: bold;
+           font-family: 'Lato', sans-serif;
+           color: #626262;
+       }
+
+       h5 {
+           color: #3498db;
+           font-size: 18px;
+       }
+
+       .card-text{
+           color: #313131;
+           font-size: 14px;
+       }
+     
+    }
+}
